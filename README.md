@@ -1,16 +1,36 @@
-## Hi there 👋
+## Hi, I'm Jean Bellamy
 
-<!--
-**jeanbellamy158/jeanbellamy158** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+First-year engineering student at ECAM Lyon, passionate about engineering and applied sciences.
 
-Here are some ideas to get you started:
+I am looking for a 3-month internship starting June 2027.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+***
+
+### What I'm interested in
+
+- **Mathematics:** analysis, linear algebra, probability and statistics
+- **Engineering:** mechanics, systems modelling and programming
+- **Finance:** financial markets, quantitative analysis and risk management
+
+***
+
+### Projects
+
+| Project | Description |
+|---|---|
+| [Budget Manager](https://github.com/jeanbellamy158/budget-manager) | A desktop app to track income and expenses by category, set monthly budgets with overspending alerts, and visualise spending |
+
+***
+
+### Tools
+
+- **Languages:** Python · HTML · JAVA
+- **Software:** SolidWorks · Fusion
+- **Environment:** Jupyter · Git · LaTeX
+
+***
+
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/jean-bellamy-350416397/$0) · [email](mailto:jean.bellamy158@gmail.com)
+
